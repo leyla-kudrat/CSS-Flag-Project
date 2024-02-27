@@ -1,0 +1,24 @@
+h1{
+    color: rgb(224, 94, 19);
+    text-align: center;
+    font-family: cursive;
+}
+.japan{
+    background-color: rgb(214, 135, 135);
+    width: 150px;
+    height: 50px;
+    margin: auto;
+}
+.hungary{
+    background-color: aqua;
+    width: 150px;
+    height: 50px;
+    margin: auto;
+}
+
+.russia{
+    background-color: chartreuse;
+    width: 150px;
+    height: 50px;
+    margin: auto;
+}
